@@ -1,0 +1,5 @@
+Tour gastronomico;Llanquihue;35000
+Paseo lacustre;Puerto Varas;25000
+Ruta de los volcanes;Frutillar;60000
+Excursion cultural;Puerto Octay;40000
+Tour de naturaleza;Ensenada;55000
